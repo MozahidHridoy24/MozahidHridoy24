@@ -29,7 +29,7 @@
       <samp>
         [ <a href="">about me</a> •
         <a href="">projects</a> •
-        <a href="https://www.linkedin.com/in/0xrokib/">contact</a> ]
+        <a href="https://www.linkedin.com/in/mozahidul-islam-hridoy-118576228?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYQSgSPVJTuirHMM2x%2FpSig%3D%3D">contact</a> ]
       </samp>
     </p>
     <br />
