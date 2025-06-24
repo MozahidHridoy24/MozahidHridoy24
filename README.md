@@ -10,8 +10,9 @@
       I'm Mozahidul Islam Hridoy, a MERN Stack Engineer.
       <br />
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=7F5AF0&center=true&vCenter=true&width=1000&lines=I+code+efficient+and+elegant+programs.;MERN+Stack+Engineer+%7C+React+%26+Node.js+%7C+Passionate+about+clean+code;Always+learning+and+building+cool+projects"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=7F5AF0&center=true&vCenter=true&width=700&lines=I+code+efficient+and+elegant+programs.;React+%7C+Node+%26+Express+%7C+MongoDB;Focused+on+building+scalable+and+maintainable+software"
 />
+
 
   </p>
 
