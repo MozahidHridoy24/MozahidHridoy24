@@ -74,7 +74,7 @@ Here are a few notable projects:
 
 - 💼 **CareerTrack**  
   A job portal featuring job listings, categories, and profile views.  
-  🔗 [Live Site](https://career-track-24.surge.sh/) | 🛠️ [Code](https://github.com/mozahidul-hridoy/career-track)
+  🔗 [Live Site](https://career-track-24.surge.sh/) | 🛠️ [Code](https://github.com/MozahidHridoy24/Career-Track)
 
 ---
 
