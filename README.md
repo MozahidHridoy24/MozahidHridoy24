@@ -71,14 +71,10 @@ Here are a few notable projects:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mozahidul-hridoy&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mozahidul-hridoy&theme=react&hide_border=true" alt="GitHub Streak" width="47%"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MozahidHridoy24&show_icons=true&theme=react&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MozahidHridoy24&theme=react&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MozahidHridoy24&layout=compact&theme=react&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozahidul-hridoy&layout=compact&theme=react&hide_border=true" width="47%"/>
-</p>
 
 ---
 
