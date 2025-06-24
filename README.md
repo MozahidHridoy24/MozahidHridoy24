@@ -65,15 +65,15 @@ Here are a few notable projects:
 
 - 📝 **RateDeck**  
   A service review platform with login, service CRUD, and user feedback.  
-  🔗 [Live Site](https://ratedeck.vercel.app/) | 🛠️ [Code](https://github.com/mozahidul-hridoy/RateDeck)
+  🔗 [Live Site](https://rate-deck.web.app/) | 
 
 - 🍽️ **RecipeBook**  
   A recipe app with categories, likes, and Firebase Auth.  
-  🔗 [Live Site](https://recipebook.vercel.app/) | 🛠️ [Code](https://github.com/mozahidul-hridoy/recipe-book)
+  🔗 [Live Site](https://recipe-book-24.surge.sh/) | 
 
 - 💼 **CareerTrack**  
   A job portal featuring job listings, categories, and profile views.  
-  🔗 [Live Site](https://careertrack.vercel.app/) | 🛠️ [Code](https://github.com/mozahidul-hridoy/career-track)
+  🔗 [Live Site](https://career-track-24.surge.sh/) | 
 
 ---
 
