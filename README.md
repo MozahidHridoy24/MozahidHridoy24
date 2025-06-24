@@ -1,4 +1,3 @@
-You said:
 <div>
   <p align="left">
     <strong><samp>「</samp></strong>
