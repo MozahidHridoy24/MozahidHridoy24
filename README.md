@@ -23,7 +23,7 @@
 
 ## 📌 About Me
 
-Hi, I'm Mozahidul Islam Hridoy — a passionate **MERN Stack Engineer** from Bangladesh 🇧🇩.
+Hi, I'm Mozahidul Islam Hridoy — a passionate **MERN Stack Engineer** from Bangladesh.
 
 🔍 I specialize in building modern, scalable, and user-focused web applications. I care deeply about writing clean code and delivering a seamless user experience.
 
