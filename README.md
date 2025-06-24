@@ -72,7 +72,7 @@ Here are a few notable projects:
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MozahidHridoy24&show_icons=true&theme=react&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=MozahidHridoy24&theme=react&hide_border=true)
+https://streak-stats.demolab.com/?user=MozahidHridoy24&theme=dark&hide_border=true
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MozahidHridoy24&layout=compact&theme=react&hide_border=true)
 
 
