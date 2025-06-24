@@ -72,7 +72,7 @@ Here are a few notable projects:
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MozahidHridoy24&show_icons=true&theme=react&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MozahidHridoy24&theme=react&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MozahidHridoy24&theme=react&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MozahidHridoy24&layout=compact&theme=react&hide_border=true)
 
 
@@ -82,8 +82,8 @@ Here are a few notable projects:
 
 Let's connect and collaborate!
 
-- 📧 Email: [mozahidulhridoy.dev@gmail.com](mailto:mozahidulhridoy.dev@gmail.com)  
-- 💼 LinkedIn: [Mozahidul Islam Hridoy](https://www.linkedin.com/in/mozahidul-islam-hridoy-118576228)  
-- 🌐 Portfolio: [mozahidulhridoy.vercel.app](https://mozahidulhridoy.vercel.app)
+- 📧 Email: [hridoy1407@gmail.com](mailto:hridoy1407@gmail.com)  
+- 💼 LinkedIn: [Mozahidul Islam Hridoy](https://linkedin.com/in/mozahidul-islam-hridoy-118576228)  
+- 🌐 Portfolio: [mozahidhridoy24.github.io](https://mozahidhridoy24.github.io/Web-dev-portfolio/)
 
 </details>
