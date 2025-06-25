@@ -37,10 +37,13 @@ Hello, I’m Mozahidul Islam Hridoy, a dedicated MERN Stack Engineer based in Ba
 #### 🧠 Languages & Frontend
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38bdf8?logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/-DaisyUI-4B5563?logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![React TypeScript](https://img.shields.io/badge/-React_TypeScript-3178C6?logo=typescript&logoColor=white)
+
 
 #### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
@@ -49,18 +52,32 @@ Hello, I’m Mozahidul Islam Hridoy, a dedicated MERN Stack Engineer based in Ba
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=JSON%20web%20tokens&logoColor=white)
 
 #### 🚀 Tools & Platforms
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
-![Surge](https://img.shields.io/badge/-Surge-222222?logo=surge&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?logo=react-query&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black)
+
+**🛠️ Development Tools**  
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
+![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-47A248?logo=mongodb&logoColor=white)  
+
+**🧪 Code Quality**  
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)  
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black)  
+
+**🌐 APIs & Libraries**  
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)  
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?logo=react-query&logoColor=white)  
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white)  
+
+**🎯 Deployment & Hosting**  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)  
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)  
+![Surge](https://img.shields.io/badge/-Surge-222222?logo=surge&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
+
+**🎨 Design**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+
 
 ---
 
