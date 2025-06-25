@@ -24,9 +24,12 @@
 
 ## 📌 About Me
 
-Hi, I'm Mozahidul Islam Hridoy — a passionate **MERN Stack Engineer** from Bangladesh.
+Hello, I’m Mozahidul Islam Hridoy, a dedicated MERN Stack Engineer based in Bangladesh.
 
-🔍 I specialize in building modern, scalable, and user-focused web applications. I care deeply about writing clean code and delivering a seamless user experience.
+🎓 I have completed my Bachelor of Science in Computer Science and Engineering from North South University, one of the leading institutions in the country.
+🔍 I am committed to developing scalable, efficient, and user-focused web applications, with a strong emphasis on clean architecture and maintainable code.
+
+
 
 ### ⚙️ Skills & Technologies
 
