@@ -82,7 +82,8 @@ Here are a few notable projects:
 
 - 🍽️ **RecipeBook**  
   A recipe app with categories, likes, and Firebase Auth.  
-  🔗 [Live Site](https://recipe-book-24.surge.sh/) | 
+  🔗 [Live Site](https://recipe-book-24.surge.sh/) | 🛠️ [Code](https://github.com/MozahidHridoy24/Recipe-Book-Client)
+
 
 - 💼 **CareerTrack**  
   A job portal featuring job listings, categories, and profile views.  
