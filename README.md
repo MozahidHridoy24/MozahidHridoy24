@@ -106,6 +106,6 @@ Let's connect and collaborate!
 
 - 📧 Email: [hridoy1407@gmail.com](mailto:hridoy1407@gmail.com)  
 - 💼 LinkedIn: [Mozahidul Islam Hridoy](https://linkedin.com/in/mozahidul-islam-hridoy-118576228)  
-- 🌐 Portfolio: [mozahidhridoy24.github.io](https://mozahidhridoy24.github.io/Web-dev-portfolio/)
+- 🌐 Portfolio: [mozahidhridoy24.github.io](https://mozahid-24.web.app/)
 
 </details>
