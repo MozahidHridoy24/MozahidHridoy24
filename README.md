@@ -1,4 +1,4 @@
-![Banner](./Hridoy-Banner.png)
+![Banner](./Hridoy-Banner1.png)
 <div>
   <p align="left">
     <strong><samp>「</samp></strong>
