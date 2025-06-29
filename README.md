@@ -8,7 +8,7 @@
     <samp>
       <b>Welcome</b>
       <br />
-      I'm Mozahidul Islam Hridoy, a MERN Stack Developer
+      I'm Mozahidul Islam Hridoy, a Full Stack Developer
       <br />
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=2a9d8f&center=true&vCenter=true&width=700&lines=I+code+efficient+and+elegant+programs;React+%7C+Node+%26+Express+%7C+MongoDB;Focused+on+building+scalable+and+maintainable+application"
