@@ -104,8 +104,9 @@ Here are a few notable projects:
 
 Let's connect and collaborate!
 
-- 📧 Email: [hridoy1407@gmail.com](mailto:hridoy1407@gmail.com)  
-- 💼 LinkedIn: [Mozahidul Islam Hridoy](https://linkedin.com/in/mozahidul-islam-hridoy-118576228)  
-- 🌐 Portfolio: [mozahidhridoy24.github.io](https://mozahid-24.web.app/)
+
+- 📧 **Email**: [hridoy1407@gmail.com](mailto:hridoy1407@gmail.com)  
+- 💼 **LinkedIn**: [Mozahidul Islam Hridoy](https://linkedin.com/in/mozahidul-islam-hridoy-118576228)  
+- 🌐 **Portfolio**: [https://mozahid-24.web.app/](https://mozahid-24.web.app/)
 
 </details>
