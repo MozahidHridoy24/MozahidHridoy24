@@ -24,7 +24,7 @@
 
 ## 📌 About Me
 
-Hello, I’m Mozahidul Islam Hridoy, a dedicated MERN Stack Engineer based in Bangladesh.
+Hello, I’m Mozahidul Islam Hridoy, a dedicated Full Stack Engineer based in Bangladesh.
 
 🎓 I have completed my Bachelor of Science in Computer Science and Engineering from North South University, one of the leading institutions in the country.
 
