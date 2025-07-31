@@ -78,7 +78,7 @@ Here are a few notable projects:
 
 - 📝 **FindMyMate**  
   A matrimony platform where user can find their true mate.  
-  🔗 [Live Site](https://find-my-mate-24.web.app/) |
+  🔗 [Live Site](https://find-my-mate-24.web.app/) | 🛠️ [Code](https://github.com/MozahidHridoy24/Find-My-Mate-Client)
   
 - 📝 **RateDeck**  
   A service review platform with login, service CRUD, and user feedback.  
