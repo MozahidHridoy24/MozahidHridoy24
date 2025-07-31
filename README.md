@@ -76,6 +76,10 @@ Hello, I’m Mozahidul Islam Hridoy, a dedicated Full Stack Engineer based in Ba
 
 Here are a few notable projects:
 
+- 📝 **FindMyMate**  
+  A matrimony platform where user can find their true mate.  
+  🔗 [Live Site](https://find-my-mate-24.web.app/) |
+  
 - 📝 **RateDeck**  
   A service review platform with login, service CRUD, and user feedback.  
   🔗 [Live Site](https://rate-deck.web.app/) | 
