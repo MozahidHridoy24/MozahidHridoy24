@@ -82,7 +82,7 @@ Here are a few notable projects:
   
 - 📝 **RateDeck**  
   A service review platform with login, service CRUD, and user feedback.  
-  🔗 [Live Site](https://rate-deck.web.app/) | 
+  🔗 [Live Site](https://rate-deck.web.app/) | 🛠️ [Code](https://github.com/MozahidHridoy24/Rate-Deck-Client)
 
 - 🍽️ **RecipeBook**  
   A recipe app with categories, likes, and Firebase Auth.  
@@ -109,8 +109,8 @@ Here are a few notable projects:
 Let's connect and collaborate!
 
 
-- 📧 **Email**: [hridoy1407@gmail.com](mailto:hridoy1407@gmail.com)  
-- 💼 **LinkedIn**: [Mozahidul Islam Hridoy](https://linkedin.com/in/mozahidul-islam-hridoy-118576228)  
+- 📧 **Email**: [mozahidul.islam1225@gmail.com](mailto:mozahidul.islam1225@gmail.com)  
+- 💼 **LinkedIn**: [Mozahidul Islam Hridoy](https://linkedin.com/in/mozahidul-islam-hridoy)  
 - 🌐 **Portfolio**: [https://mozahid-24.web.app/](https://mozahid-24.web.app/)
 
 </details>
